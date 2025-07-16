@@ -13,5 +13,6 @@ This project analyzes the "Superstore" dataset using Tableau and SQL. It provide
 - SQLite / SQL
 - Python (optional, for preprocessing)
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3789e20a-e114-4697-8e63-30e314cb5735" />
+<img width="1020" height="531" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/56575fe2-6fb3-4b81-8b24-6801f614cd71" />
+
 
